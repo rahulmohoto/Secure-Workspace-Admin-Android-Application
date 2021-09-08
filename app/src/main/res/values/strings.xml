@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Secure Workspace</string>
+    <string name="text_1">Scan every nearby device and connect with CORE2 AWS</string>
+    <string name="text_2">Add and Listen Your Device</string>
+    <string name="text_3">State</string>
+    <string name="text_4">Received Data -></string>
+    <string name="text_5">Null</string>
+    <string name="text_6">Find Your Devices</string>
+    <string name="text_7">Selected Device -></string>
+    <string name="text_8">Null</string>
+    <string name="text_about">About Secure Workspace</string>
+    <string name="text_about_body">An IoT controlled peer to peer network structured with CORE2 AWS and supervised by an android app with association of AWS IoT core</string>
+    <string name="text_about_body_Dashboard">Here, you can search for BLE devices. Get a list of active devices, which are able to communicate via bluetooth. Connect with a particular device. listen for incoming message. Also adding the device in favourites list is possible.</string>
+    <string name="text_about_body_favourites">Here, you can find all your favourite devices that you added earlier.</string>
+
+    <string name="btn_1">Connect</string>
+    <string name="btn_4">Select to Connect</string>
+    <string name="btn_2">Scan</string>
+    <string name="btn_3">Power On Bt</string>
+    <string name="btn_5">About</string>
+
+    <string name="list_1">Nearby Bluetooth Devices</string>
+    <string name="list_2">Favourite Devices</string>
+
+    <string name="list_view_text">Title</string>
+    <string name="list_view_text2">Device Address</string>
+
+    <string name="title_text">Title</string>
+    <string name="title_button">Add to Favourites</string>
+
+    <string name="unknown_service">Unknown Service</string>
+    <string name="unknown_characteristic">Unknown Characteristic</string>
+
+    <string name="main_screen_name">Secure Workspace</string>
+    <string name="button_start">Dashboard</string>
+    <string name="button_favourites">Favourite Devices</string>
+
+    <string name="ImageView1">Main_Logo</string>
+
+    <string name="my_toolbar">Secure WorkSpace</string>
+    <string name="device_toolbar">Device Toolbar</string>
+</resources>
